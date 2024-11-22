@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مقدمه‌ای بر دوره پیشرفته پایتون</title>
+    
 </head>
 <body style="font-family: Arial, sans-serif; direction: rtl; text-align: right; line-height: 1.8;">
 
@@ -136,13 +136,6 @@ import this
     <li>راهنمای بهترین شیوه‌ها برای نوشتن کد حرفه‌ای ارائه می‌شود.</li>
     <li>منابع اضافی برای مطالعه در طول دوره معرفی خواهند شد.</li>
 </ul>
-
-<hr>
-
-<h2>نتیجه‌گیری</h2>
-<p>
-این جزوه مقدمه‌ای بر دوره پیشرفته پایتون بود که به آموزش اصول و مفاهیم کلیدی این زبان می‌پردازد. با مرور مطالب این جزوه و پیش‌نیازهای ذکرشده، می‌توانید به‌خوبی برای ورود به دوره آماده شوید.
-</p>
 
 </body>
 </html>
