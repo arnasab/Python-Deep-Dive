@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مرور سریع مبانی پایتون</title>
 </head>
 <body style="font-family: Arial, sans-serif; direction: rtl; text-align: right; line-height: 1.8;">
 
@@ -100,10 +99,6 @@ print(result)  # خروجی: ۵
 
 <hr>
 
-<h2>نتیجه‌گیری</h2>
-<p>
-این بخش، یک مرور سریع از مفاهیم پایه‌ای پایتون بود که در این دوره به کار می‌آیند. برای درک بهتر، توصیه می‌شود کدهای نمونه را اجرا کرده و تست کنید.
-</p>
 
 </body>
 </html>
