@@ -97,7 +97,7 @@ say_hello() if a < 10 else say_goodbye()
 <hr>
 
 <h2>نتیجه‌گیری</h2>
-<p>در این ویدیو، استفاده از دستورات شرطی در پایتون را بررسی کردیم. دستورات <code style="direction: ltr;">if</code>، <code style="direction: ltr;">elif</code>، <code style="direction: ltr;">else</code> و عملگر شرطی (ترنری) به شما این امکان را می‌دهند که اجرای کد خود را بر اساس شرایط خاص کنترل کنید.</p>
+<p>در این بخش، استفاده از دستورات شرطی در پایتون را بررسی کردیم. دستورات <code style="direction: ltr;">if</code>، <code style="direction: ltr;">elif</code>، <code style="direction: ltr;">else</code> و عملگر شرطی (ترنری) به شما این امکان را می‌دهند که اجرای کد خود را بر اساس شرایط خاص کنترل کنید.</p>
 
 </body>
 </html>
